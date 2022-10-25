@@ -11,6 +11,8 @@ Now I'm working as a Backend Programming Instructor full time and my pleasure is
 #### Using the most part of the time:
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript)
+![express](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express)
+![node](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js)
 ![sequelize](https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize)
 ![prisma](https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=prisma)
 ![mongodb](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb)
@@ -18,9 +20,11 @@ Now I'm working as a Backend Programming Instructor full time and my pleasure is
 ![css3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3)
 ![react](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react)
 ![reactnative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react)
-![node](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js)
 ![docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker)
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
+![flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask)
+![django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django)
+![fast-api](https://img.shields.io/badge/Fast_API-323330?style=for-the-badge&logo=fastapi)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark)
