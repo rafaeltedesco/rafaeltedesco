@@ -25,10 +25,17 @@ Now I'm working as a Backend Programming Instructor full time and my pleasure is
 ![react](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react)
 ![reactnative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react)
 ![docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker)
+![Postgres](https://img.shields.io/badge/postgres-323330?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql)
+
+#### Used to work with:
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
 ![flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask)
 ![django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django)
 ![fast-api](https://img.shields.io/badge/Fast_API-323330?style=for-the-badge&logo=fastapi)
+![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java)
+![Pandas](https://img.shields.io/badge/pandas-323330?style=for-the-badge&logo=pandas)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark)
