@@ -35,7 +35,9 @@ Now I'm working as a Backend Programming Instructor full time and my pleasure is
 ![fast-api](https://img.shields.io/badge/Fast_API-323330?style=for-the-badge&logo=fastapi)
 ![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/c%23-323330?style=for-the-badge&logo=c-sharp)
 ![Pandas](https://img.shields.io/badge/pandas-323330?style=for-the-badge&logo=pandas)
+![Lua](https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark)
