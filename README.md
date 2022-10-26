@@ -1,6 +1,6 @@
 ### Welcome to my Profile 
 
-My name is Rafael Tedesco. I live in Brazil, SPP and I'm 31.
+My name is Rafael Tedesco. I live in Brazil, SP and I'm 31.
 
 Started my journey in tech when I was 14 programming games. 
 
