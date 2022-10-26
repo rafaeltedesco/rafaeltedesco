@@ -10,7 +10,7 @@ At age 18 I started to teach algorithms and programming languages like Pascal, D
 
 Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasure is to follow my students accomplishments and turn ideas into code in my free time.
 
-At the moment I'm building a repo that aims to bring at least two example projects of each Design Pattern cataloged in `Design Patterns: Elements of Reusable Object-Oriented Software` using Typescript Language.
+At the moment I'm building a repo that aims to bring at least two example projects of each Design Pattern cataloged in _Design Patterns: Elements of Reusable Object-Oriented Software_ using Typescript Language.
 The repo can be reached through here: [Typescript Design Patterns](https://github.com/rafaeltedesco/Typescript_Design_Patterns)
 
 ---
