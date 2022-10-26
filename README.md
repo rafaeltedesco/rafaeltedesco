@@ -2,7 +2,11 @@
 
 My name is Rafael Tedesco. I live in Brazil, SPP and I'm 31.
 
-Started my journey in tech when I was 14 programming games. My first programming language was Javascript. At age 18 I started to teach algorithms and programming languages like Pascal, Delphi and PHP.
+Started my journey in tech when I was 14 programming games. 
+
+My first programming language was Javascript. 
+
+At age 18 I started to teach algorithms and programming languages like Pascal, Delphi and PHP.
 
 Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasure is to follow my students accomplishments and turn ideas into code in my free time.
 
