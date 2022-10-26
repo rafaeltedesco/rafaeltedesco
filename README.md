@@ -6,6 +6,9 @@ Started my journey in tech when I was 14 programming games. At age 18 I started 
 
 I'm a Backend Programming Instructor and my pleasure is to follow my students accomplishments and turn ideas into code in my free time.
 
+At the moment I'm building a repo that aims to bring at least two example projects of each Design Pattern cataloged in Typescript Language.
+The repo can be reached through here: [Typescript Design Patterns](https://github.com/rafaeltedesco/Typescript_Design_Patterns)
+
 ---
 
 #### Using the most part of the time:
