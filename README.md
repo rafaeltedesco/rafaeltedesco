@@ -4,7 +4,7 @@ My name is Rafael Tedesco. I'm currently living in Brazil and I'm 31.
 
 Started my journey in tech when I was 14 programming games. At age 18 I started to teach algorithms and programming languages like Pascal, Delphi and PHP.
 
-Now I'm working as a Backend Programming Instructor full time and my pleasure is to follow my students accomplishments.
+I'm a Backend Programming Instructor and my pleasure is to follow my students accomplishments and turn ideas into code in my free time.
 
 ---
 
