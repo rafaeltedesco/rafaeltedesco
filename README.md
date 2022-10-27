@@ -131,6 +131,11 @@ The repo can be reached through here: [Typescript Design Patterns](https://githu
 ![docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker)
 
 ---
+#### Message Brokers
+
+![rabbitMq](https://img.shields.io/badge/Vitest-JS-yellow)
+
+---
 
 ![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark)
 
