@@ -133,7 +133,7 @@ The repo can be reached through here: [Typescript Design Patterns](https://githu
 ---
 #### Message Brokers
 
-![rabbitMq](https://img.shields.io/badge/Vitest-JS-yellow)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-323330?style=for-the-badge&logo=rabbitmq)
 
 ---
 
