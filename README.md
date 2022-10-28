@@ -33,9 +33,9 @@ The repo can be reached through here: [Typescript Design Patterns](https://githu
   ![Lua](https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua)
 
 ---
-![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
 
 #### Web/Mobile Libraries and Frameworks
 
