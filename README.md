@@ -137,7 +137,7 @@ The repo can be reached through here: [Typescript Design Patterns](https://githu
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark&count_private=true)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltedesco&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=dark)
 
