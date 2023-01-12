@@ -134,10 +134,6 @@ Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasu
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dark&count_private=true)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltedesco&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=dark)
-
 ### Reach Me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rafael-tedesco/)
