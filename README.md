@@ -137,3 +137,5 @@ Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasu
 ### Reach Me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rafael-tedesco/)
+
+![rafaeltedesco-stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dracula)
