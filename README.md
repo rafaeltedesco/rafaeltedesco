@@ -26,7 +26,6 @@ Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasu
 #### 📌 Used to work with
   ![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php)
   ![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java)
-  ![C#](https://img.shields.io/badge/c%23-323330?style=for-the-badge&logo=c-sharp)
   ![Lua](https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua)
 
 ---
