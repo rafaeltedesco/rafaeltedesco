@@ -21,11 +21,11 @@ Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasu
 #### 🎖 Favorites
   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
   ![typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript)
+  ![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java)
   ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
 
 #### 📌 Used to work with
   ![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php)
-  ![Java](https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java)
   ![Lua](https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua)
 
 ---
