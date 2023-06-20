@@ -8,7 +8,7 @@ My first programming language was Javascript.
 
 At age 18 I started to teach algorithms and programming languages like Pascal, Delphi and PHP.
 
-Currently I'm a Backend Programming Instructor in Javascript Stack and my pleasure is to follow my students accomplishments and turn ideas into code in my free time.
+Currently I'm a Backend Programming Instructor and my pleasure is to follow my students accomplishments and turn ideas into code in my free time.
 
 ---
 
