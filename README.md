@@ -2,7 +2,7 @@
 
 I'm Rafael Tedesco.
 
-I'm a Full Stack Developer with more than 5 years of experience, but I prefer working with backend development. 
+I think I may call myself a Full Stack Developer, but I prefer working with backend development. 
 
 I've already worked with many programming languages like Delphi, Python, Javascript, Typescript, Java, Lua, PHP.
 
