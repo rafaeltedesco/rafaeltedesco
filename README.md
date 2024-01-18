@@ -16,7 +16,7 @@ I'm ready and willing to collaborate on big and challenging projects!
 
 Currently working on a side Project to allow handle files in Azure Storage: 
 
-- [Azure Storage File System](https://github.com/rafaeltedesco/azure-storage-file-system-full-stack])
+- [Azure Storage File System](https://github.com/rafaeltedesco/azure-storage-file-system-full-stack)
 
 ### Reach Me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
