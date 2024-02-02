@@ -1,28 +1,35 @@
-### Welcome to my Profile 
+### Welcome to My Profile 👋
 
-I'm Rafael Tedesco.
+I'm Rafael Tedesco, a Full Stack Developer with a passion for backend development. I've gained experience working with a diverse set of programming languages, including Delphi, Python, JavaScript, TypeScript, Java, Lua, and PHP.
 
-I think I may call myself a Full Stack Developer, but I prefer working with backend development. 
+Currently, I am immersed in the JavaScript/TypeScript Stack, leveraging frameworks like Express.js and Nest.js to build robust web applications. Additionally, I am actively studying and exploring Golang.
 
-I've already worked with many programming languages like Delphi, Python, Javascript, Typescript, Java, Lua, PHP.
+#### What I Bring to the Table:
 
-Currently I working with Javascript/Typescript Stack using frameworks to build web applications like express.js, nest.js.
+- 🚀 Proven experience in backend development.
+- 🔧 Proficient in various programming languages and technologies.
+- 🌐 Building web applications with JavaScript/TypeScript Stack.
+- 📚 Continuous learning and exploration of new technologies and development patterns.
 
-I'm also studying Golang.
+#### Current Projects:
 
-I like to explore new tecnhologies, approaches and patterns when it comes to software development.
+1. **Microservices Demonstration Application:**
+   - Developed to showcase microservices operation and implementation.
+   - Utilizes different programming languages for each microservice.
+   - Technologies include Python with FastAPI, Java with Spring Boot, Golang, JavaScript with Nest.js, and JavaScript with Express.
+   - Check out the [repository](https://github.com/rafaeltedesco/trybeticket-microservices) for more details.
 
-I'm ready and willing to collaborate on big and challenging projects!
+2. **Azure Storage File System:**
+   - Side project focusing on file handling in Azure Storage.
+   - [Azure Storage File System Repository](https://github.com/rafaeltedesco/azure-storage-file-system-full-stack).
 
-Currently working on a side Project to allow handle files in Azure Storage: 
+#### Let's Connect!
 
-- [Azure Storage File System](https://github.com/rafaeltedesco/azure-storage-file-system-full-stack)
-
-### Reach Me
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rafael-tedesco/)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rafael-tedesco/). I'm always open to collaborations and discussions about exciting projects.
 
 ---
+
+#### GitHub Stats:
 
 ![rafaeltedesco-stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dracula)
 
