@@ -8,7 +8,9 @@ Currently, I am immersed in the JavaScript/TypeScript Stack, leveraging framewor
 
 - 🚀 Proven experience in backend development.
 - 🔧 Proficient in various programming languages and technologies.
-- 🌐 Building web applications with JavaScript/TypeScript Stack.
+- 🌐 Building web applications with JavaScript/TypeScript and Python.
+- 🤖 Builing RPA with Python
+- 🎲 Building ETL pipelines for Data Engineering with Python
 - 📚 Continuous learning and exploration of new technologies and development patterns.
 
 #### Current Projects:
