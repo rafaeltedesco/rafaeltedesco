@@ -16,11 +16,13 @@ What I Bring to the Table:
 
 Key Skills and Technologies:
 
-- Programming Languages: Python, SQL, NoSQL
-- Frameworks and Libraries: Pandas, PySpark, Pydantic, SQLAlchemy, NLTK, Flask, FastAPI, Django, Django Ninja, Django Rest Framework, Streamlit, Jinja2, SQLModel, Beautiful Soup, Pillow, Selenium
+- Programming Languages: Python
+- Types of Database: SQL, NoSQL
+- Frameworks and Libraries: Pandas, PySpark, Pydantic, SQLAlchemy, NLTK, Flask, FastAPI, Django, Django Rest Framework, Streamlit, Jinja2, SQLModel, Beautiful Soup, Pillow, Selenium, PyTesseract (OCR Tool), PyPDF2, PyMuPDF, Python-Docx, Boto3, langChain
 - Cloud Services: AWS (Lambda, Glue, Athena, S3, Rekognition, SageMaker, etc.), Azure (Databricks, Data Lake Storage Gen2)
-- Data Engineering Tools: SAP Netweaver, PyTesseract (OCR Tool), PyPDF2, PyMuPDF, Python-Docx, Boto3
-- Architecture and Design Patterns: Medallion Architecture, Clean Architecture, Hexagonal Architecture, DDD, TDD
-- Big Data and Data Streaming: AWS Firehose, RabbitMQ, Kafka, SQS/SNS
-- Other Technologies: Redis, Docker, Power BI, DAX, Power Query, Dimensional Data Modeling, Excel, VBA, SOLID, OOP Design Patterns, Microservices Design Patterns, GraphQL, JWT, Vector Databases (ChromaDB)
-- Machine Learning and AI: Hugging Face, OpenAI, LLM, RAG
+- Architecture and Design Patterns: Medallion Architecture, Clean Architecture, Hexagonal Architecture, DDD, TDD, SOLID, OOP Design Patterns, Microservices Design Patterns
+- Big Data and Data Streaming: AWS Firehose, RabbitMQ, Kafka, SQS/SNS, RabbitMQ
+- Containers: Docker
+- BI Tools: Power BI (DAX, Power Query, Data Modeling), Excel
+- Machine Learning and AI: Hugging Face, OpenAI, LLM, RAG, scikit-learn
+- Other Technologies: Redis, Excel, VBA, GraphQL, JWT, Oauth2, Vector Databases (ChromaDB), SAP Netweaver
