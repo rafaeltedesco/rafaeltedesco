@@ -1,38 +1,22 @@
 ### Welcome to My Profile 👋
 
-I'm Rafael Tedesco, a Full Stack Developer with a passion for backend development. I've gained experience working with a diverse set of programming languages, including Delphi, Python, JavaScript, TypeScript, Java, Lua, and PHP.
+I'm Rafael Tedesco, a seasoned Software and Data Engineer with over a decade of experience specializing in planning, building, and maintaining resilient and scalable web applications, and automating processes for data extraction, transformation, and loading (ETL) in Cloud environments. I support business specialists in their decision-making by providing robust data solutions.
 
-Currently, I am immersed in the JavaScript/TypeScript Stack, leveraging frameworks like Express.js and Nest.js to build robust web applications. Additionally, I am actively studying and exploring Golang.
+What I Bring to the Table:
 
-#### What I Bring to the Table:
+🚀 Extensive Experience in Data Engineering: Proven track record in developing ETL/ELT automation for data engineering, web applications, and analytics.
+🔧 Proficiency in Diverse Technologies: Skilled in Python, SQL, NoSQL, and various cloud services including AWS and Azure.
+📊 Building and Optimizing ETL Pipelines: Expertise in creating efficient ETL pipelines for data extraction, transformation, and loading.
+🌐 Cloud Expertise: Extensive experience with AWS (Lambda, Glue, Athena, S3, Rekognition, SageMaker, and more) and Azure (Databricks, Data Lake Storage).
+📚 Continuous Learning: Always exploring new technologies, development patterns, and best practices to stay ahead in the field.
 
-- 🚀 Proven experience in backend development.
-- 🔧 Proficient in various programming languages and technologies.
-- 🌐 Building web applications with JavaScript/TypeScript and Python.
-- 🤖 Builing RPA with Python
-- 🎲 Building ETL pipelines for Data Engineering with Python
-- 📚 Continuous learning and exploration of new technologies and development patterns.
+Key Skills and Technologies:
 
-#### Current Projects:
-
-1. **Microservices Demonstration Application:**
-   - Developed to showcase microservices operation and implementation.
-   - Utilizes different programming languages for each microservice.
-   - Technologies include Python with FastAPI, Java with Spring Boot, Golang, JavaScript with Nest.js, and JavaScript with Express.
-   - Check out the [repository](https://github.com/rafaeltedesco/trybeticket-microservices) for more details.
-
-2. **Azure Storage File System:**
-   - Side project focusing on file handling in Azure Storage.
-   - [Azure Storage File System Repository](https://github.com/rafaeltedesco/azure-storage-file-system-full-stack).
-
-#### Let's Connect!
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rafael-tedesco/). I'm always open to collaborations and discussions about exciting projects.
-
----
-
-#### GitHub Stats:
-
-![rafaeltedesco-stats](https://github-readme-stats.vercel.app/api?username=rafaeltedesco&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltedesco&hide=jupyter%20notebook,objective-c&langs_count=10&layout=compact&theme=dracula)](https://github.com/rafaeltedesco/github-readme-stats)
+Programming Languages: Python, SQL, NoSQL
+Frameworks and Libraries: Pandas, PySpark, Pydantic, SQLAlchemy, NLTK, Flask, FastAPI, Django, Django Ninja, Django Rest Framework, Streamlit, Jinja2, SQLModel, Beautiful Soup, Pillow, Selenium
+Cloud Services: AWS (Lambda, Glue, Athena, S3, Rekognition, SageMaker, etc.), Azure (Databricks, Data Lake Storage Gen2)
+Data Engineering Tools: SAP Netweaver, PyTesseract (OCR Tool), PyPDF2, PyMuPDF, Python-Docx, Boto3
+Architecture and Design Patterns: Medallion Architecture, Clean Architecture, Hexagonal Architecture, DDD, TDD
+Big Data and Data Streaming: AWS Firehose, RabbitMQ, Kafka, SQS/SNS
+Other Technologies: Redis, Docker, Power BI, DAX, Power Query, Dimensional Data Modeling, Excel, VBA, SOLID, OOP Design Patterns, Microservices Design Patterns, GraphQL, JWT, Vector Databases (ChromaDB)
+Machine Learning and AI: Hugging Face, OpenAI, LLM, RAG
