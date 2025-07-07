@@ -1,4 +1,4 @@
-### Welcome to My Profile 👋
+### Welcome to My Profile! 👋
 ---
 
 I'm Rafael Tedesco, a seasoned Software and Data Engineer with over a decade of experience specializing in planning, building, and maintaining resilient and scalable web applications, and automating processes for data extraction, transformation, and loading (ETL) in Cloud environments. I support business specialists in their decision-making by providing robust data solutions.
